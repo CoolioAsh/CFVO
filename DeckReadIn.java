@@ -13,7 +13,7 @@ public class DeckReadIn {
 	
 	public ArrayList<String> ReadIn() throws IOException{
 		Scanner keyboard = new Scanner(System.in);
-		BufferedReader br = new BufferedReader(new FileReader("alpha/decklist.txt"));
+		BufferedReader br = new BufferedReader(new FileReader("decklist.txt"));
 		System.out.println("How many decks do you wish to look over?");
 		value = keyboard.nextInt();
 		for(int ri = 0;ri<value;++ri){
