@@ -14,7 +14,7 @@ public class RulesReadIn {
 	private String [] rulelist = new String[32];
 	
 	public void ReadIn() throws IOException{
-		BufferedReader br = new BufferedReader(new FileReader("rules.txt"));
+		BufferedReader br = new BufferedReader(new FileReader("alpha/rules.txt"));
 		for(int ri = 0;ri<32;++ri){
 			rulelist[ri] = br.readLine();
 			System.out.println(rulelist[ri]);}
