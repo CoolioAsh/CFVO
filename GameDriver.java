@@ -23,30 +23,33 @@ public class GameDriver {
 	System.out.println("7. Start a New Game");
 	optionchoice = keyinput.nextInt();
 	if(optionchoice <= 0 || optionchoice >= 8){
-		System.out.println("Invalid Input, Try Again");}
+		System.out.println("Invalid Input, Try Again");
+		}
 	else if(optionchoice == 1){
 		System.out.println("Here are the game rules!");
 		System.out.println("Opening...");
-		rulebook.ReadIn();}
+		rulebook.ReadIn();
+		}
 	else if(optionchoice == 2){
 		System.out.println("Here are the decks that are in the system");
-		decklists.ReadIn();}
+		decklists.ReadIn();
+		}
 	else if(optionchoice == 3){
 		System.out.println("Starting up the Card Database...");
 		//carddatabase.open();
-							}
+		}
 	else if(optionchoice == 4){
 		System.out.println("Please pick a game to review:");
 		//oldgames.open();
-								}
+		}
 	else if(optionchoice == 5){
 		System.out.println("Opening the list of suggested decks");
 		//suggested.open();
-	}
+		}
 	else if(optionchoice == 6){
 		System.out.println("Starting a new game...");
-		//negame.start();
-	}
+		//newgame.start();
+		}
 	}
 }
 		
