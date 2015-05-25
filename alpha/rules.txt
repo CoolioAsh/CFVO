@@ -1,0 +1,32 @@
+Building a Main Deck
+A main deck must consist of exactly 50 cards (Including your first vanguard).
+A main deck may not contain more than 4 of any card having the same name (even it is only a alternate image card).
+A main deck must contain exactly 16 Trigger Units.
+A main deck may only contain up to 4 Heal Triggers.
+A main deck may only contain up to 4 cards with Sentinel.
+Regulation
+A deck fulfilling "Clan Fight" regulation must consist of cards that all belong to the same clan of your choice.
+Should cards have more than 1 clan (e.g. Blaster Blade Spirit), it can be used within those clans mentioned.
+There are two special exceptions too, as some clan featured cards with abilities referring to other clan's cards: A Royal Paladin deck may include up to 4 copies of Blaster Dark, and a Link Joker deck may contain any number of cards from other clans, as long as those cards' names contain a "Я".
+"Clan Fight" regulations are currently not present in the English version of the game.
+Field
+Your Main Deck should be placed on one side of the game area. When you draw a card, you take the top card from your deck into your hand. If you have no cards left in your deck at any point in the game, you lose immediately.
+The Drop Zone should be a separate pile of cards. When you retire a card, you move it to the Drop Zone. When you Heal Damage, you move cards from the Damage Zone to the Drop Zone.
+The Damage Zone is a stack of discarded cards that must be kept separate from the Drop Zone. Cards in the Damage Zone represent damage to your vanguard. If there are ever six or more cards in your Damage Zone, you lose the game.
+The G Zone is a stack for include the G Units face down at the beginning of the game, and it may onlycontain up to 8 G Units. Use the cards in this zone for either perform Stride or G Assist.
+The main play area consists of two rows of three spaces. The row nearer the opponent is the front rowand the other row is the back row.
+The Vanguard Circle is the middle space of the front eow. It may hold multiple cards in a stack. The top card in the Vanguard Circle is considered both a unit and vanguard. Any cards stacked below it are cards in your soul. Your vanguard is not part of your soul. If the vanguard is in Legion, the cards in the soul are stacked under the Legion Leader.
+The Rear-guard Circles are the other five spaces in the main area. These can usually only hold a single card each. A card on Rear-guard Circle is considered both a unit and rear-guard.
+The Trigger Zone is a temporary area where cards are placed while their effects are being resolved. Its location is unimportant. If you are making a Drive Check, you move cards from your Deck to the Trigger Zone and from there to your hand. If you are making a Damage Check, you move cards from your Deck to the Trigger Zone and from there to the Damage Zone.
+The Guardian Circle is a temporary area where cards are placed during combat. It is normally located in front of the Front Row. Cards are played here during battle and then retired to the Drop Zone. You may only guard with grades that are equal to or less than your vanguard. A card on Guardian Circle is considered both a unit and guardian.
+Starting a Game
+1. Each player chooses a Grade 0 unit from their deck and places it face-down on the Vanguard Circle. That card will be their first vanguard.
+2. Decide randomly who goes first. The player who goes first cannot attack on their first turn.
+3. Both players shuffle their deck and draw 5 cards.
+4. Mulligan: If a player doesn't like their hand, they can shuffle any number of cards from their hand back into their deck and then draw new cards until they have 5 cards in their hand again. The new hand must be kept.
+5. Both players, at the same time, turn their vanguards from face down to face up.
+Victory Conditions
+To win a Cardfight!! Vanguard match you must inflict 6 damage to your opponent's Vanguard. Damage to their Vanguard is represented by cards in their Damage Zone.
+If a player ever has 6 or more cards in their Damage Zone, they lose.
+If a player has no cards in deck at any point of the game, they lose.
+Note that there is an exception in Star-vader, "Omega" Glendios, whereby if the conditions are met, you can win the game. This is the only card revealed so far that has an auto-win condition.
